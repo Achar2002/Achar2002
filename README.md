@@ -180,45 +180,7 @@ Implemented a distributed Jenkins architecture using separate controller and age
 
 ---
 
-# ☁️ AWS DevOps Focus
 
-My current focus is building practical knowledge across the complete DevOps lifecycle:
-
-```text
-                     AWS CLOUD
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │    Git      │
-                  └──────┬──────┘
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │   Jenkins   │
-                  │    CI/CD    │
-                  └──────┬──────┘
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │    Docker   │
-                  └──────┬──────┘
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │ Kubernetes  │
-                  └──────┬──────┘
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │  Terraform  │
-                  │     IaC     │
-                  └──────┬──────┘
-                         │
-                         ▼
-                    AWS INFRA
-```
-
----
 
 # 📚 DevOps Labs & Learning
 
