@@ -191,7 +191,7 @@ I regularly practice DevOps concepts through hands-on labs and projects.
 
 # 📜 Certifications
 
-* ☁️ **AWS Cloud Practitioner Essentials**
+* ☁️ **AWS Cloud Practitioner Essentials (CLF002)**
 * ☸️ **Introduction to Kubernetes — Linux Foundation (LFS158)**
 * 🐧 **Introduction to Linux — Linux Foundation (LFS101)**
 
