@@ -203,7 +203,6 @@ I regularly practice DevOps concepts through hands-on labs and projects.
 * ☁️ **AWS Cloud Practitioner Essentials**
 * ☸️ **Introduction to Kubernetes — Linux Foundation (LFS158)**
 * 🐧 **Introduction to Linux — Linux Foundation (LFS101)**
-* ☁️ **Microsoft Azure Data Fundamentals (DP-900)**
 
 ---
 
@@ -225,40 +224,8 @@ I'm continuously improving my ability to **build, automate, deploy, troubleshoot
 
 ---
 
-# 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vishwanathna&show_icons=true&hide_border=true&theme=transparent" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanathna&layout=compact&hide_border=true&theme=transparent" height="170"/>
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
 
 
-</a>
-
-<a href="https://www.linkedin.com/in/vishwanatha6/">
-<img src="https://www.linkedin.com/in/sanath-achari-856a69234"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
 
 ###  Build. Automate. Deploy. I
 
-</div>
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
