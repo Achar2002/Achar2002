@@ -6,15 +6,6 @@
 
 **Build • Automate • Deploy**
 
-<br>
-
-
-</a>
-<a href="https://www.linkedin.com/in/vishwanatha6/">
-  <img src="https://www.linkedin.com/in/sanath-achari-856a69234" />
-</a>
-
-</div>
 
 ---
 
@@ -227,5 +218,5 @@ I'm continuously improving my ability to **build, automate, deploy, troubleshoot
 
 
 
-###  Build. Automate. Deploy. I
+###  Build. Automate. Deploy.
 
