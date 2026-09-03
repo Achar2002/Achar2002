@@ -72,20 +72,21 @@ I'm passionate about automation and enjoy learning how to build reliable and sca
 
 # 🚀 Featured DevOps Projects
 
-### 🔥 Enterprise CI/CD Pipeline
+###  Deployment of Java based E-Commerce Application 
 
-**Jenkins • GitHub • Maven • SonarQube • Nexus • Tomcat**
+**Jenkins • GitHub • Maven • SonarQube • Nexus • Tomcat • k8s • eks • docker • monitoring tools *
 
 End-to-end CI/CD pipeline automating application checkout, build, code-quality analysis, artifact management, and deployment.
 
 **Key concepts:**
 
-* GitHub webhook integration
-* Jenkins pipeline automation
-* Maven build
-* SonarQube analysis
-* Nexus artifact management
-* Automated Tomcat deployment
+* Integrated GitHub and Jenkins for source-code management and automated pipeline triggering.
+* Used Maven for Java application compilation, testing, packaging, and dependency management, with Nexus for artifact repository management.
+* Integrated SonarQube for static code analysis and code-quality monitoring and Trivy for vulnerability scanning of Docker images.
+* Containerized the application using Docker and automated Docker image build and registry management through the Jenkins pipeline.
+* Deployed the containerized application on Amazon EKS (Elastic Kubernetes Service) using Kubernetes manifests and exposed the application through a LoadBalancer service.
+* Configured email notifications in Jenkins to communicate build and deployment success/failure.
+* Implemented application and Kubernetes infrastructure monitoring using Prometheus and Grafana, enabling visibility into resource utilization and application health.
 
 
 ---
