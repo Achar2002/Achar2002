@@ -70,7 +70,7 @@ I'm passionate about automation and enjoy learning how to build reliable and sca
 
 ---
 
-# 🚀 Featured DevOps Projects
+# 🚀 Featured DevOps Projects  (explore more projects on repository)
 
 ###  Deployment of Java based E-Commerce Application 
 
