@@ -169,7 +169,7 @@ I regularly practice DevOps concepts through hands-on labs and projects.
 * ☁️ **AWS Cloud Practitioner Essentials (CLF002)**
 * ☸️ **Introduction to Kubernetes — Linux Foundation (LFS158)**
 * 🐧 **Introduction to Linux — Linux Foundation (LFS101)**
-* **network security by udemy**
+*      **network security by udemy**
 
 ---
 
