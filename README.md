@@ -2,7 +2,7 @@
 
 # Hi, I'm Sanath Achari 👋
 
-### AWS DevOps Engineer | Cloud |
+### AWS DevOps Engineer | Cloud Engineer | 
 
 **Build • Automate • Deploy**
 
@@ -74,7 +74,7 @@ I'm passionate about automation and enjoy learning how to build reliable and sca
 
 ###  Deployment of Java based E-Commerce Application 
 
-**Jenkins • GitHub • Maven • SonarQube • Nexus • Tomcat • k8s • eks • docker • monitoring tools *
+**Jenkins • GitHub • Maven • SonarQube • Nexus • Tomcat • k8s • eks • docker • monitoring tools **
 
 End-to-end CI/CD pipeline automating application checkout, build, code-quality analysis, artifact management, and deployment.
 
@@ -91,44 +91,18 @@ End-to-end CI/CD pipeline automating application checkout, build, code-quality a
 
 ---
 
-### ☸️ Kubernetes Application Deployment
+### Designing Multi-Tier VPC Architecture with Peering for CNA 
 
-**Kubernetes • Docker • YAML • Services**
+**AWS VPC • EC2 • ALB • Terraform • Security Groups • RDS • Linux • GitHub**
 
-Deployed a containerized application on Kubernetes and practiced application deployment, service exposure, rolling updates, scaling, and troubleshooting.
-
-**Key concepts:**
-
-* Pods
-* Deployments
-* Services
-* ConfigMaps
-* Secrets
-* Rolling Updates
-* Rollbacks
-* Kubernetes troubleshooting
-
-
-
----
-
-### 🏗️ AWS Infrastructure with Terraform
-
-**AWS • Terraform • Infrastructure as Code**
-
-Automating AWS infrastructure provisioning using Terraform with reusable configurations and infrastructure lifecycle management.
+Deployed a 3 tier vpc architecture
 
 **Key concepts:**
 
-* VPC
-* EC2
-* IAM
-* Security Groups
-* Variables & Outputs
-* Terraform State
-* Modules
-* Remote Backend
-
+*  Designed two isolated VPCs, each with public and private subnets to simulate real-world multi-tier architecture
+* Configured VPC Peering to enable secure communication across VPCs, and updated routing tables accordingly.
+* Used CIDR block planning to avoid IP conflicts and enable seamless routing between peered VPCs.
+* Deployed EC2 instances in both public and private subnets and verified inter-VPC connectivity using private Ips
 
 
 ---
@@ -195,6 +169,7 @@ I regularly practice DevOps concepts through hands-on labs and projects.
 * ☁️ **AWS Cloud Practitioner Essentials (CLF002)**
 * ☸️ **Introduction to Kubernetes — Linux Foundation (LFS158)**
 * 🐧 **Introduction to Linux — Linux Foundation (LFS101)**
+* **network security by udemy**
 
 ---
 
